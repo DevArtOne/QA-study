@@ -1,0 +1,22 @@
+<PetStore>
+	<Pets>
+		<pet id = '1'>
+			<name>Marta</name>
+			<breed>monkey</breed>
+		</pet>
+		<pet id = '2'>
+			<name>Butch</name>
+			<breed>dog</breed>
+		</pet>
+		<pet id = '3'>
+			<name>Goose</name>
+			<breed>cat</breed>
+		</pet>
+	</Pets>
+	<Food>
+		<milk/>
+		<sausage/>
+		<bone id = 'chiken'/>
+		<water>Bonaqua</water>
+	</Food>
+</PetStore>
