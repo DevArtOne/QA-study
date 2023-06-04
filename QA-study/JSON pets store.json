@@ -1,0 +1,28 @@
+{
+  "animals": [
+    {
+      "type": "cat",
+      "name": "Alica",
+      "age": 3,
+      "breed": "turtle"
+    },
+    {
+      "type": "dog",
+      "name": "Chak",
+      "age": 2,
+      "breed": "no breed"
+    }
+  ],
+  "goods": [
+    {
+      "type": "food",
+      "weight": "1 kg",
+      "taste": "salty"
+    },
+    {
+      "type": "clothes",
+      "color": "orange",
+      "size": "3"
+    }
+  ]
+}
